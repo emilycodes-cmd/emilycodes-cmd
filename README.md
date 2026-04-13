@@ -43,7 +43,6 @@
 
 🔹 claude-code-ollama-local  
 🔹 GemCode  
-🔹 my-site  
 
 ---
 
